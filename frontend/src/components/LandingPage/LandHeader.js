@@ -52,20 +52,11 @@ const LandHeader = () => {
           </span>
           <span>
             <a
-              href="https://github.com/akkySrivastava/medium3.0-mern"
+              href="https://github.com/manjari5506/medium-clone"
               target={"_blank"}
               rel="noopener noreferrer"
             >
               Fork me on Github
-            </a>
-          </span>
-          <span>
-            <a
-              href="https://youtube.com/c/CodeWithAkky"
-              target={"_blank"}
-              rel="noopener noreferrer"
-            >
-              Subscribe on Youtube
             </a>
           </span>
           <span
